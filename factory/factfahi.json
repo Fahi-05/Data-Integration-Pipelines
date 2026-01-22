@@ -1,0 +1,9 @@
+{
+	"name": "factfahi",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bef8d3d4-4457-4f0d-95c3-2aaa144a7e1d",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
