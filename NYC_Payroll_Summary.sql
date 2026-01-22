@@ -1,0 +1,1 @@
+SELECT * FROM [dbo].[NYC_Payroll_Summary]
